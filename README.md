@@ -11,6 +11,22 @@
 
 **🎯 Built for:** Government of India DBT Mission | **🏆 Project Type:** SIH 2025 Hackathon Enhanced Version
 
+## 🌐 Live Demo
+
+### 🚀 **Production Website**
+**[https://dbtsahayak.netlify.app](https://dbtsahayak.netlify.app)**
+
+*Experience the complete DBT Sahayak portal with all interactive features!*
+
+| Feature | Status | Description |
+|---------|--------|--------------|
+| 🏠 Landing Page | ✅ Live | Hero section with DBT information |
+| 🔍 Status Checker | ✅ Live | Interactive Aadhaar-DBT status verification |
+| 📚 Information Hub | ✅ Live | Educational content and video tutorials |
+| 🗺️ Bank Locator | ✅ Live | Find nearby Aadhaar-enabled banks |
+| 🏦 Bank Details | ✅ Live | Step-by-step linking instructions |
+| 🔐 Authentication | ✅ Live | User registration and login system |
+
 ## 🚀 Features
 
 ### 🏠 **Landing Page**
